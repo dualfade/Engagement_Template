@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "43cedc94a83b1d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e30e8a0a4b84d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6828871eba049bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Details.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52f81d37d861de53",
+    "type": "split",
+    "children": [
+      {
+        "id": "80defa2a4c3f2b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d63a09b26131ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14570c2ada83d7cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da88ec6305eebab1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb561d543e559487",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ad1554a209cfce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c19da34e82b7b693",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Details.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fcedc2ac698f071",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Details.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bc4bdaeb3f8a714",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51157ae0421db331",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Details.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6828871eba049bdf",
+  "lastOpenFiles": [
+    "README.md",
+    "Project Details.md",
+    "Checklist.md",
+    "Vuln_Template/Sample vuln - Reflected XSS at .....md",
+    "Vuln_Template/attachments/Evidence1.png",
+    "RECON.md",
+    "060_SCRATCH",
+    "050_PERSIST",
+    "040_POST",
+    "030_EXPLOIT",
+    "020_ENUM",
+    "010_RECON"
+  ]
+}
