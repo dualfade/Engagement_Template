@@ -34,7 +34,7 @@ fi
 
 - screenshots --
 
-![image](https://github.com/dualfade/Engagement_Template/assets/2522757/7e6b3f49-9791-4fd0-abc2-42a2e147f26c)
+![image](https://github.com/dualfade/Engagement_Template/assets/2522757/6efd0014-6263-4008-b22d-3604d95bc566)
 ![image](https://github.com/dualfade/Engagement_Template/assets/2522757/5f1f3f93-2afc-422a-9e27-abe9ac158f02)
 
 
