@@ -1,7 +1,7 @@
 #### README.md
 
 ```zsh
-# projects.zsh
+# zsh_projects.zsh
 # @dualfade --
 
 # create pentest dir struct --
@@ -31,6 +31,4 @@ fi
 
 ![image](https://github.com/dualfade/Engagement_Template/assets/2522757/4ac1dab7-0237-4849-bc47-4e88d086cdd8)
 ![image](https://github.com/dualfade/Engagement_Template/assets/2522757/a266e8b0-8fd2-4a79-847d-ef691099e9cc)
-![image](https://github.com/dualfade/Engagement_Template/assets/2522757/c2cc39e3-4b61-4c1f-a5d6-c172a3bce060)
-![image](https://github.com/dualfade/Engagement_Template/assets/2522757/cf91d7ac-13a2-4eac-9106-6d6c53d8a6db)
 
