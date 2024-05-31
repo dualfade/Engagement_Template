@@ -1,5 +1,8 @@
 #### README.md
 
+- inspired by six2dez; props --
+- updated for my needs --
+
 ```zsh
 # zsh_projects.zsh
 # @dualfade --
@@ -28,6 +31,8 @@ create_projectStruct() {
 fi
 }
 ```
+
+- screenshots --
 
 ![image](https://github.com/dualfade/Engagement_Template/assets/2522757/4ac1dab7-0237-4849-bc47-4e88d086cdd8)
 ![image](https://github.com/dualfade/Engagement_Template/assets/2522757/a266e8b0-8fd2-4a79-847d-ef691099e9cc)
