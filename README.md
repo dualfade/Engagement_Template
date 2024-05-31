@@ -39,7 +39,8 @@ fi
 mkdir MyAwesomeProject
 create_projectStruct MyAwesomeProject
 
-Open obsidian "Documents/vault"
+launch obsidian
+open vault -> "Documents/vault"
 Get to work !
 
 ```
