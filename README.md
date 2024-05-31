@@ -20,7 +20,7 @@ create_projectStruct() {
       /bin/mkdir -p {Documents/{sow,roe,scope,vault},Misc,Findings/{recon,post,persist,exploit,enum},Downloads/{bin,src},Sploits/{www,tmp},Reports/{draft,final},Proxy}; \
       /bin/tree -a "${PWD}"
 
-    echo "[info] => Cloning teplate repo"
+    echo "[info] => Cloning template repo"
     /usr/bin/git clone https://github.com/dualfade/Engagement_Template.git "Documents/vault/$PROJECT"
 
     echo "[info] Done."
